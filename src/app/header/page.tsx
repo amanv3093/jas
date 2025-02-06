@@ -1,7 +1,6 @@
 "use client";
 import Image from "next/image";
 import React, { useState } from "react";
-import logo from "../../../public/079e85290777bd7467a00fd8c0b9a5ad-removebg-preview.png";
 import { Menu, X } from "lucide-react"; // Icons for hamburger and close
 import Section1 from "./section1";
 import logo1 from "../../../public/logo1.webp";
