@@ -27,7 +27,7 @@ const Section3 = () => {
             Years of experience and a deep understanding of the local market
             have allowed me to help countless clients find their ideal homes,
             profitable investment properties, and prime commercial spaces.
-            Whether you&apos;re looking to buy, sell, or rent, I provide customized
+            Whether you are looking to buy, sell, or rent, I provide customized
             solutions tailored to your specific needs, ensuring a smooth and
             successful real estate experience every step of the way.
           </p>
