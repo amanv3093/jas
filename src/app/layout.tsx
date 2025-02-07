@@ -1,6 +1,5 @@
 import "./globals.css";
-import Header from "./header/page";
-
+import Home from "./Home/page";
 
 export default function RootLayout({
   children,
@@ -11,7 +10,7 @@ export default function RootLayout({
     <html lang="en">
       <head>{/* Add global head tags here */}</head>
       <body>
-        <Header/>
+        <Home />
         <main id="content">{children}</main>
       </body>
     </html>

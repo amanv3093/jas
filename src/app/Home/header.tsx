@@ -2,9 +2,8 @@
 import Image from "next/image";
 import React, { useState } from "react";
 import { Menu, X } from "lucide-react"; // Icons for hamburger and close
-import Section1 from "./section1";
 import logo1 from "../../../public/logo1.webp";
-import Section2 from "./section2";
+
 function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
@@ -95,9 +94,6 @@ function Header() {
           </ul>
         </div>
       )}
-
-      <Section1 />
-      <Section2 />
     </>
   );
 }
