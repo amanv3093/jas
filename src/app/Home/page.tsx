@@ -6,6 +6,8 @@ import Section3 from "./section3";
 import Section4 from "./section4";
 import Section5 from "./section5";
 import Section6 from "./section6";
+import TestimonialSection from "./testimonial";
+import ContactUs from "./contact_us";
 
 function Home() {
   return (
@@ -16,7 +18,9 @@ function Home() {
       <Section3 />
       <Section4 />
       <Section5 />
-      <Section6/>
+      <Section6 />
+      <TestimonialSection />
+      <ContactUs />
     </div>
   );
 }
